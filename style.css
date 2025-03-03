@@ -1,0 +1,16 @@
+body{
+    background-color: beige;
+}
+h1{
+    color: red;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2{
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+    color: green;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
